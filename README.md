@@ -80,6 +80,9 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
     - I : büyük romen rakamları
     - a : küçük harf 
     - A : büyük harf
+  * start: sıralı listede başlangıç değerini belirtmek için kullanılır.
+  * value: Liste ögesinin numarasını belirtmek için kullanılır.
+
 
 
 
