@@ -46,4 +46,33 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
 ## id Özniteliği
 * Bir öğe için benzersiz bir kimlik belirtir.
 
+## <html> Etiketi Ne İşe Yarar?
+* html etiketi içerisine yazılacak tüm etiketleri kapsar. Html etiketi kullanmadan diğer etiketlerin bir anlamı olmaz.
+
+## head Etiketi Ne İşe Yarar?
+* Bu etiket sayfanın tarayıcıya ve arama motorlarına tanıtıldığı (Meta etiketleriyle), CSS ve Javascript dosyalarının dahil edildiği alanı temsil etmektedir. Sayfa görünümde herhangi bir değişikliğe sebep olmaz. Görünmez özellikleri temsil edecektir.
+
+## <title> Etiketi Ne İşe Yarar?
+* Bu etiket sayfa isminin belirtilmesini sağlar. Yani tarayıcı sekmesini temsil eden adı kapsar.
+
+## meta Etiketi Ne İşe Yarar?
+* Meta etiketleri sayfaya ait temel bilgileri (Sayfa açıklaması, anahtar kelimeler, başlık vs) gibi bilgileri tarayıcılara ve arama motorlarına iletir. Böylelikle sayfanın hangi konu ile alakalı olduğunu arama motorları öğrenir ve sonuçları o bilgilere göre listeler. Meta etiketleri her html sayfasında muhakkak olması gereken etiketlerdir.
+
+## body Etiketi Ne İşe Yarar?
+* Bu etiket arasında yazacağımız tüm etiketler ekrana yansır. Genel olarak tasarım yaparken body etiketleri arasında çalışacağız. Yani body etiketi bir html dosyanın en önemli kısmı.
+
+## Listeleme Etiketleri
+- ol
+  * Sıralı liste oluşturmak için <ol> etiketi kullanılır. 
+- ul
+  *  Sırasız liste oluşturmak için <ul> etiketi kullanılır.
+- li
+  * li etiketi liste öğelerini yazmak için kullanılır.
+- Liste etiketiyle kullanılabilecek parametreler
+  * type: sıralı yada sırasız listenin türünü belirler.
+  
+
+  
+
+
 
