@@ -63,13 +63,32 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
 
 ## Listeleme Etiketleri
 - ol
-  * Sıralı liste oluşturmak için <ol> etiketi kullanılır. 
+  * Sıralı liste oluşturmak için ol etiketi kullanılır. 
 - ul
-  *  Sırasız liste oluşturmak için <ul> etiketi kullanılır.
+  *  Sırasız liste oluşturmak için ul etiketi kullanılır.
 - li
   * li etiketi liste öğelerini yazmak için kullanılır.
 - Liste etiketiyle kullanılabilecek parametreler
   * type: sıralı yada sırasız listenin türünü belirler.
+  * Sırasız Liste İçin;
+    - Disc : içi dolu daire
+    - Circle : içi boş daire
+    - Square : kare
+  * Sıralı Liste İçin;
+    - 1 : onluk taban 
+    - i : küçük romen rakamları
+    - I : büyük romen rakamları
+    - a : küçük harf 
+    - A : büyük harf
+
+
+
+
+
+
+ 
+
+
   
 
   
