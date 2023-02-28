@@ -61,6 +61,23 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
 ## body Etiketi Ne İşe Yarar?
 * Bu etiket arasında yazacağımız tüm etiketler ekrana yansır. Genel olarak tasarım yaparken body etiketleri arasında çalışacağız. Yani body etiketi bir html dosyanın en önemli kısmı.
 
+## En Çok Kullanılan HTML Etiketleri Nelerdir
+- H Etiketleri
+  * H etiketleri başlık etiketleridir. Büyükten küçüğe sırasıyla . h1,h2,h3,h4,h5,h6.
+  * HTML otomatik olarak Başlık etiketlerinin öncesine ve sonrasına satır atlatır.
+
+
+- P Etiketi 
+  * p etiketi paragraf etiketidir. Sayfa içerisinde oluşturacağımız metinleri p etiketi ile oluştururuz.
+
+
+- BR Etiketi
+  * br etiketi satır atlatma etiketidir ve kapatmaya ihtiyaç duymayan etiketlerden biridir. Atlatmak istediğiniz satır sayısı kadar br etiketi kullanabilirsiniz. NOT: BR etiketinin farklı kullanımlarını görebilirsiniz. örn.(<br>,<br/>,<br />) Hepsi aynı işlevi yerine getirir.
+
+
+- A Etiketi
+  * a etiketinin en önemli özelliği href özelliğidir. Bu etiket ile sayfaları linkleyebiliriz. Etiket içerisine yazılan içerik sayfa üzerinde gösterilecek içeriktir. href içine yazılan ise tıklandığında gideceği URL'dir.
+
 ## Listeleme Etiketleri
 - ol
   * Sıralı liste oluşturmak için ol etiketi kullanılır. 
@@ -82,6 +99,21 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
     - A : büyük harf
   * start: sıralı listede başlangıç değerini belirtmek için kullanılır.
   * value: Liste ögesinin numarasını belirtmek için kullanılır.
+  
+## STRONG ve B Etiketi
+  * strong etiketi bir metinin arama motorlarına önemli olduğunu bildirmek için kullanılır. Kullanıldığı zaman metini kalın yapar. Eğer sadece metini kalınlaştırmak isterseniz b etiketini kullanabilirsiniz.
+
+## Script Etiketi
+* script etiketi JavaScript kodlarını HTML içerisine yazabilmemizi sağlar.
+
+## Button Etiketi
+* button etiketini buton oluşturmak için kullanırız. Buton üzerine yazmak istediğiniz içeriği etiketin içine yazmanız yeterlidir.
+## img Etiketi
+* Resim eklemek için img etiketini kullanıyoruz. img src=”resim.jpg” alt=”açıklama yazısı” src="" kısmına eklemek istediğimiz görselin yolunu yani kaynağını yazmalıyız. Eğer görselimiz ve HTML dosyamız aynı klasörde ise görselin adını ve uzantısını yazmamız yeterlidir. alt="" kısmına görselin açıklamasını yazıyoruz fakat isterseniz boş bırakabilirsiniz. Bu etiket kapanmaya ihtiyaç duymaz.
+
+## iframe Etiketi
+* Belge içinde belge gösterebilmemizi sağlayan etikettir. Genelde başka bir sitedeki belgeyi kendi sayfamızda göstermek için kullanırız. örn: Youtube'dan bir videoyu sayfamızda göstermek istersek iframe kodlarını sayfamıza eklememiz yeterli.(video üzerinde sağ tıklayıp yerleştirme kodunu kopyala diyerek iframe kodunu kopyalayabiliriz.)
+
 
 
 
