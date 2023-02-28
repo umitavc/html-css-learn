@@ -20,7 +20,7 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
 
 ## Src Özniteliği
 * HTML görüntüleri <img> etiketi ile tanımlanır. Görüntü kaynağının dosya adı, src özniteliğinde belirtilmiştir.
-* <img src="resim1.jpg">
+
  
  ## Genişlik (width) ve Yükseklik (height) Özniteliği
  * HTML’deki resimler, görüntünün genişliğini ve yüksekliğini belirten  özniteliklere sahiptir.
@@ -30,13 +30,12 @@ Türkçesiyle Belge tipi; internet sayfaları hazırlarken sayfanızın hangi t�
 
 ## Style Özniteliği
  * Stil özelliği, renk, yazı tipi, boyut vb. Gibi bir öğenin stilini belirtmek için kullanılır.
- * <p style="color:red">Bu bir paragraf.</p>
+ 
 
 ## Lang Özniteliği
  * Belgenin dili <html> etiketinde bildirilebilir.
  * Belgenin dili <html> etiketinde bildirilebilir.
  * Dil bildirmek, erişilebilirlik uygulamaları (ekran okuyucular) ve arama motorları için önemlidir.
- * <html lang="en-US">
 
 ## Title Özniteliği
 * <p> öğesine bir title özniteliği eklendiğinde paragrafın üzerine fare ile gelindiğinde başlık özniteliğinin değeri bir ipucu olarak görüntülenir.
